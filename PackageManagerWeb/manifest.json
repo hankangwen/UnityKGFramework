@@ -1,0 +1,48 @@
+{
+    "packageList": [
+        {
+            "name": "com.kgframework.developmentmemo",
+            "version": "1.0.0",
+            "isInstalled": false,
+            "author": "KervenGame",
+            "description": "description123",
+            "documentationUrl": "https://www.github.com",
+            "releaseDate": "2023.12.12",
+            "dependencies": [
+                {
+                    "name": "com.ui",
+                    "version": "1.1.1",
+                    "isInstalled": false
+                },
+                {
+                    "name": "com.rider",
+                    "version": "2.1.1",
+                    "isInstalled": false
+                }
+            ],
+            "referencies": []
+        },
+        {
+            "name": "com.kgframework.developmentmemo",
+            "version": "1.0.0",
+            "isInstalled": false,
+            "author": "KervenGame",
+            "description": "description123",
+            "documentationUrl": "https://www.github.com",
+            "releaseDate": "2023.12.12",
+            "dependencies": [
+                {
+                    "name": "com.ui",
+                    "version": "1.1.1",
+                    "isInstalled": false
+                },
+                {
+                    "name": "com.rider",
+                    "version": "2.1.1",
+                    "isInstalled": false
+                }
+            ],
+            "referencies": []
+        }
+    ]
+}
