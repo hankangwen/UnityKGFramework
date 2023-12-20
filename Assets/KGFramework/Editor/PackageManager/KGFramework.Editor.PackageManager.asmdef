@@ -1,0 +1,17 @@
+{
+    "name": "KGFramework.Editor.PackageManager",
+    "rootNamespace": "",
+    "references": [
+        "GUID:962b9b69610df5648a684a6c4d9ea32f",
+        "GUID:2e0298699b2285a44b77442e3c4870af"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

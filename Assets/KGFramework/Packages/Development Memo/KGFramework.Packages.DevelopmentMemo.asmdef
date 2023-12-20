@@ -1,0 +1,16 @@
+{
+    "name": "KGFramework.Packages.DevelopmentMemo",
+    "rootNamespace": "",
+    "references": [
+        "GUID:962b9b69610df5648a684a6c4d9ea32f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
