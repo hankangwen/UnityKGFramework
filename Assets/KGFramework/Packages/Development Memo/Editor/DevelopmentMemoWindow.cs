@@ -1,4 +1,3 @@
-using System;
 using UnityEngine;
 using UnityEditor;
 
@@ -10,7 +9,7 @@ namespace KG.Framework
     [Package("Development Memo", "1.0.0")]
     public class DevelopmentMemoWindow : EditorWindow
     {
-        [MenuItem("KGFramework/Development Memo")]
+        [MenuItem("KGFramework/Development Memo", priority = 11)]
         public static void Open()
         {
             GetWindow<DevelopmentMemoWindow>("DevelopmentMemo").Show();
