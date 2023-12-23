@@ -1,13 +1,12 @@
 {
     "packageList": [
         {
-            "name": "com.kgframework.developmentmemo",
+            "name": "Development Memo",
             "version": "1.0.0",
-            "isInstalled": false,
             "author": "KervenGame",
-            "description": "description123",
+            "description": "开发备忘录",
             "documentationUrl": "https://www.github.com",
-            "releaseDate": "2023.12.12",
+            "releaseDate": "2023.12.20",
             "dependencies": [
                 {
                     "name": "com.ui",

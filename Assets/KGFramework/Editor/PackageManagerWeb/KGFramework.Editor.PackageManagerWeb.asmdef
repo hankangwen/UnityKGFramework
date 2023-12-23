@@ -1,9 +1,9 @@
 {
-    "name": "KGFramework.Editor.PackageManager",
+    "name": "KGFramework.Editor.PackageManagerWeb",
     "rootNamespace": "",
     "references": [
-        "GUID:962b9b69610df5648a684a6c4d9ea32f",
-        "GUID:145236fe45506fb49a3da439c2b1066e"
+        "GUID:145236fe45506fb49a3da439c2b1066e",
+        "GUID:cc225a8f702330142a5d78cae2525628"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],

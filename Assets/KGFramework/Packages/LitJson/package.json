@@ -1,0 +1,16 @@
+
+{
+    "name" : "PackageJson",
+    "hideFlags" : 0,
+    "author"    : "3",
+    "description" : "4",
+    "downloadUrl" : "5",
+    "documentationUrl" : "6",
+    "releaseDate"      : "3",
+    "dependencies"     : [
+    ],
+    "referencies"      : [
+    ],
+    "name"             : "1",
+    "version"          : "2"
+}
