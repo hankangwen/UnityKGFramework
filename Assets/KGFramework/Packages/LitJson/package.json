@@ -1,16 +1,14 @@
-
 {
-    "name" : "PackageJson",
-    "hideFlags" : 0,
-    "author"    : "3",
-    "description" : "4",
-    "downloadUrl" : "5",
-    "documentationUrl" : "6",
-    "releaseDate"      : "3",
-    "dependencies"     : [
-    ],
-    "referencies"      : [
-    ],
-    "name"             : "1",
-    "version"          : "2"
+  "packageName": "LitJson",
+  "version": "1.0.0",
+  "author": "hankangwen",
+  "description": "LitJson4Unity",
+  "downloadUrl": "https://ghproxy.com/https://github.com/hankangwen/LitJson4Unity/releases/download/1.0.0/LitJson_v1.0.0.unitypackage",
+  "documentationUrl": "https://github.com/hankangwen/LitJson4Unity",
+  "releaseDate": "2023.12.23",
+  "dependencies": 
+  {
+    "PackageAttribute": "1.0.0",
+    "PackageAttribute2": "1.0.2"
+  }
 }

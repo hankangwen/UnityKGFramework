@@ -10,7 +10,8 @@ namespace KG.Framework
         public static void Trans2Json()
         {
             var selectedObject = Selection.activeObject;
-            if (selectedObject != null && selectedObject.GetType() == typeof(PackageInfoDetail))
+            // if (selectedObject != null && selectedObject.GetType() == typeof(PackageInfoDetail))
+            if (selectedObject != null)
             {
                 string jsonSavePath = EditorUtility.OpenFolderPanel("Select Folder", "", "");
                 if (!string.IsNullOrEmpty(jsonSavePath))

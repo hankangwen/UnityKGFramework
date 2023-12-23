@@ -10,14 +10,14 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 2c2bbc036e2223948a872de019816039, type: 3}
-  m_Name: PackageJson
+  m_Name: PackageInfoDetail
   m_EditorClassIdentifier: 
-  packageName: LitJson
-  version: 1.0.0
+  packageName: 
+  version: 
   isInstalled: 0
-  author: hankangwen
-  description: LitJson4Unity
-  downloadUrl: https://ghproxy.com/https://github.com/hankangwen/LitJson4Unity/releases/download/1.0.0/LitJson_v1.0.0.unitypackage
-  documentationUrl: https://github.com/hankangwen/LitJson4Unity
-  releaseDate: 2023.12.23
+  author: 
+  description: 
+  downloadUrl: 
+  documentationUrl: 
+  releaseDate: 
   referencies: []
